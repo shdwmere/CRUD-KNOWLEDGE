@@ -1,0 +1,14 @@
+Você precisará de um banco de dados onde haverá uma tabela que você precisará registrar os pedidos,
+e entre as colunas dessa tabela você deve ter uma coluna específica para registrar as movimentações do mercado pago.
+E no retorno automático você terá que fazer uma operação de update que vai registrar as alterações
+e depois na página de retorno você vai disparar um e-mail para o cliente.
+
+Há muitos sistemas aqui no canal que mostram como registrar o CRUD (Create - Read - Update - Delete) no banco de dados,
+destaco controle de estoque e carrinho de compras.
+Mas se você quer aprender sobre o backend recomendo você assistir o nosso curso gratuito de PHP aqui no Youtube, onde ensinamos também mexer com banco de dados.
+Segue o link da playlist: https://www.youtube.com/watch?v=Z_52MXwI1xw&list=PLVR6F4yZo5Ln7N_nbKUYEmgHSge0eDG-M
+Espero ter ajudado. :)
+
+Resuma o problema
+Descreva o que você já tentou
+Quando apropriado, mostre um pouco de código
